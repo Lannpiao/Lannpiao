@@ -1,4 +1,4 @@
-## Oiii eu sou o Helenilson(Lannpiao), criador de conteúdo de programação e Games!
+## Oiii eu sou o Helenilson(Lannpiao), desenvolvedor de jogos!
 <div align="center">
   <a href="https://github.com/Lannpiao">
  
